@@ -38,5 +38,5 @@ pip install -r requirements.txt
 
 ## Ackowlegement
 
-- This is a Group Project Done by Reinis, Jenny, Iqbal, Tony, Olivia for the course 70105 'Deep Graph-Based Learning' @ ICl
+- This is a Group Project Done by Reinis, Jenny, Iqbal, Tony, Olivia for the course 70105 'Deep Graph-Based Learning' @ ICL
 - All Resources came from DoC, Imperial College London
